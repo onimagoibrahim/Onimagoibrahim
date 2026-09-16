@@ -1,4 +1,16 @@
-## Hi there 👋
+# Sacrosanct | Turning Ideas Into Smart Digital Solutions
+I'm Onimago Ibrahim - Future Biomedical Software Engineer
+
+### Skills & Services
+Data Science | AI | Web Dev | Photo Editing | Digital Solutions | Data Analysis | Ai Automatiion | Robotics and Automation|
+
+### Mission
+Build Authentic. Create. Grow.
+
+### Projects
+My documented projects will be added here as PDFs. Stay tuned!
+
+📫 Let's connect and build smart solutions.
 
 <!--
 **onimagoibrahim/Onimagoibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
